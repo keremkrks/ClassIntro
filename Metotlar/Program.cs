@@ -30,6 +30,7 @@ namespace Metotlar
                 Console.WriteLine("-----------------");
             }
 
+
             Console.WriteLine("-------------Metotlar---------------");
 
             //instance  - örnek
